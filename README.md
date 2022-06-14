@@ -1,0 +1,2 @@
+# DiceCoin
+Assignment 3
